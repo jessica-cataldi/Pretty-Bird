@@ -22,40 +22,4 @@ public class Alerts
         alert.setContentText("You need to select a pretty to insert first.");
         alert.showAndWait();
     }
-//    public static void wrongCourseAlert()
-//    {
-//        Alert alert = new Alert(AlertType.WARNING);
-//        alert.setTitle("WARNING");
-//        alert.setHeaderText("INPUT ERROR: Invalid Input");
-//        alert.setContentText("Please make sure you fill out all required information including: Course Number"
-//                                + ", Course Title, Course Description, and Number of Credits.");
-//        alert.showAndWait();
-//    }   
-//    public static void wrongTextbookAlert()
-//    {
-//        Alert alert = new Alert(AlertType.WARNING);
-//        alert.setTitle("WARNING");
-//        alert.setHeaderText("INPUT ERROR: Invalid Input");
-//        alert.setContentText("Please make sure you enter a valid book title along with"
-//                              + " the authors name and the ISBN");
-//        alert.showAndWait();
-//    }      
-//    public static void wrongStudentAlert()
-//    {
-//        Alert alert = new Alert(AlertType.WARNING);
-//        alert.setTitle("WARNING");
-//        alert.setHeaderText("INPUT ERROR: Invalid Input" );
-//        alert.setContentText("Please make sure you enter a first and last name "
-//                              + "along with a major and a valid 10 digit phonenumber.");
-//        alert.showAndWait();
-//    }
-//    public static void wrongFacultyAlert()
-//    {
-//        Alert alert = new Alert(AlertType.WARNING);
-//        alert.setTitle("WARNING");
-//        alert.setHeaderText("INPUT ERROR: Invalid Input" );
-//        alert.setContentText("Please make sure you enter a first and last name "
-//                              + "along with a title and a valid 10 digit phonenumber.");
-//        alert.showAndWait();
-//    }
 }
